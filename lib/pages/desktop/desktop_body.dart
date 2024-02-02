@@ -304,11 +304,7 @@ class _MyDesktopBodyState extends State<MyDesktopBody> {
                                         scrollDirection: Axis.vertical,
                                         child: Expanded(
                                           child: Container(
-                                            width: (MediaQuery.of(context)
-                                                        .size
-                                                        .width -
-                                                    200) /
-                                                2,
+                                            width: 700,
                                             color: Color(0xff3f3d56),
                                             height: MediaQuery.of(context)
                                                 .size
