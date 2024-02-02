@@ -1,16 +1,15 @@
 # assessment
+A Flutter project that is responive on mobile, tablet and the web!
+This app (Hova Store) is a simulation of an online store where you can view items, prices and customres.
+Functionalities on all platforms:
+1- View customers from MockApi.
+2- View product names from MockApi.
+3- View product prices from MockApi.
+4- product prices color change according to value (blue if value >5 , yellow if 0<value <5 , red if value =0).
+5-number of items listed is fetched from the api.
 
-A new Flutter project.
+Additional functionalities on mobile and small tablet:
+Alongside the functionalities listed up, a checkout screen is added, you can access it by tapping on "Add TO CART" button in any item listed in the mobile or small tablet view.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PLEASE MAKE SURE YOU ARE CONNECTED TO THE INTERNET IN ORDER TO USE THE APP.
