@@ -13,8 +13,7 @@ class ProductBloc extends Bloc<ProductEvent, ProductStates> {
         emit(ProductLoading());
         final List<ProductModel> ProductsList =
             await apiRepository.fetchProductList();
-        print("fdivjdfpkfpdjgjfgdjofpgojjgpdg");
-        print(ProductsList.length);
+
         emit(ProductLoaded(ProductList: ProductsList));
         if (ProductsList[0].error != null) {
           emit(ProductError(error: ProductsList[0].error));
