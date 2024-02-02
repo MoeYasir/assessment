@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225796974248",
+    "project_id": "appppp-cf10f",
+    "storage_bucket": "appppp-cf10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225796974248:android:72e61084cc2aaeca49c49d",
+        "android_client_info": {
+          "package_name": "com.example.otptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZe8pugyOj0KLpB8DfN8twKn7hR8dKlzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
