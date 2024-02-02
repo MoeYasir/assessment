@@ -29,17 +29,7 @@ If you want to run the code, make sure you install packages using flutter pub ge
 Screenshots:
 
 <img width="1440" alt="Screenshot 2024-02-02 at 9 20 22 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/739bd386-70a7-4033-8602-b501d2888a87">
-<img width="1440" alt="Screenshot 2024-02-02 at 9 20 29 PM" src="https://githu
-<img width="1440" alt="Screenshot 2024-02-02 at 9 21 28 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/c9579a64-baee-4bf5-94a8-b9f0c2e76a36">
-b.com/MoeYas
-<img width="1440" alt="Screenshot 2024-02-02 at 9 17 24 PM
-<img width="1440" alt="Screenshot 2024-02-02 at 9 17 24 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/c2f4c7d8-d081-4347-86c7-3b6162f3811f">
-" src="https://github.com/MoeYasir/assessment/assets/101048907/604a879e-1d6f-4dfd-8e6d-81832febbd41">
-ir/assessment/assets/101048907/50598d1f-98d6-4327-8e9c-ecdccca0ab77">
-<img width="1440" alt="Screenshot 2024-02-02 at 9 20 32 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/ae35b837-3190-4c73-ac3d-06f3770cefcd">
-![Uploading Screens
-<img width="1440" alt="Screenshot 2024-02-02 at 9 21 25 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/3726b33d-87dd-4f5c-98d0-a4b11fb60ff8">
-hot 2024-02-02 at 9.21.17 PM.png…]()
+
 
 
 
