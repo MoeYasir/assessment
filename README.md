@@ -29,6 +29,9 @@ If you want to run the code, make sure you install packages using flutter pub ge
 Screenshots:
 
 <img width="1440" alt="Screenshot 2024-02-02 at 9 20 22 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/739bd386-70a7-4033-8602-b501d2888a87">
+<img width="1440" alt="Screenshot 2024-02-02 at 9 20 29 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/84c0733c-c92a-4c8f-a7b5-8be5d2e12d7f">
+<img width="1440" alt="Screenshot 2024-02-02 at 9 20 32 PM" src="https://github.com/MoeYasir/assessment/assets/101048907/73c0b57e-ab91-48d3-8817-3c7573ae3e81">
+
 
 
 
